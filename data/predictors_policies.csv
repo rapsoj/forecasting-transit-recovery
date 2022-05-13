@@ -1,0 +1,165 @@
+﻿metro_area,start_date,end_date,category,measure,encoding,authority,source
+Brisbane,2020-01-29,NA,State of Emergency,State-wide state of emergency,1,Queensland,https://en.wikipedia.org/wiki/COVID-19_pandemic_in_Queensland
+San Diego,2020-03-04,NA,State of Emergency,State-wide state of emergency,1,California,https://en.wikipedia.org/wiki/California_government_response_to_the_COVID-19_pandemic
+San Francisco,2020-03-04,NA,State of Emergency,State-wide state of emergency,1,California,https://en.wikipedia.org/wiki/California_government_response_to_the_COVID-19_pandemic
+Philadelphia,2020-03-06,2021-06-15,State of Emergency,State-wide state of emergency,1,Pennsylvania,https://apnews.com/article/pennsylvania-health-coronavirus-pandemic-government-and-politics-c6ccc6e59b3187535a8a21cfe5a2e075
+New York,2020-03-07,NA,State of Emergency,State-wide state of emergency,1,New York State,https://en.wikipedia.org/wiki/COVID-19_pandemic_in_New_York_%28state%29
+Chicago,2020-03-09,2022-02-15,State of Emergency,State-wide state of emergency,1,Illinois,https://en.wikipedia.org/wiki/COVID-19_pandemic_in_Illinois
+Calgary,2020-03-12,2020-03-28,Gathering Restrictions,Prohibit indoor gatherings of over 250 people,1,Alberta,https://en.wikipedia.org/wiki/COVID-19_pandemic_in_Alberta
+Montréal,2020-03-12,2020-03-20,Gathering Restrictions,Prohibit indoor gatherings of over 250 people,1,Québec,https://en.wikipedia.org/wiki/Timeline_of_the_COVID-19_pandemic_in_Quebec
+New York,2020-03-12,2020-03-20,Gathering Restrictions,Prohibit indoor gatherings of over 250 people,1,New York State,https://en.wikipedia.org/wiki/COVID-19_pandemic_in_New_York_%28state%29
+Philadelphia,2020-03-12,2020-03-23,Gathering Restrictions,"Prohibit indoor gatherings of over 1,000 people",1,Pennsylvania,https://www.phillymag.com/news/2020/03/12/coronavirus-philadelphia-event-cancellatons/
+San Diego,2020-03-12,2020-03-19,Gathering Restrictions,Prohibit indoor gatherings of over 10 people,2,California,https://www.msn.com/en-us/news/other/biden-administration-to-lift-international-travel-ban-in-november/vi-AAPzn2L
+San Francisco,2020-03-12,2020-03-17,Gathering Restrictions,Prohibit indoor gatherings of over 10 people,2,California,https://www.msn.com/en-us/news/other/biden-administration-to-lift-international-travel-ban-in-november/vi-AAPzn2L
+Montréal,2020-03-12,NA,State of Emergency,Province-wide state of emergency,1,Québec,https://en.wikipedia.org/wiki/Timeline_of_the_COVID-19_pandemic_in_Quebec
+Phoenix,2020-03-12,2020-07-01,State of Emergency,State-wide state of emergency,1,Arizona,https://en.wikipedia.org/wiki/COVID-19_pandemic_in_Arizona
+Toronto,2020-03-13,2020-03-16,Gathering Restrictions,Prohibit indoor gatherings of over 250 people,1,Ontario,https://www.ontario.ca/page/framework-reopening-our-province
+Paris,2020-03-13,2020-03-16,Gathering Restrictions,Prohibit indoor gatherings of over 100 people,1,France,https://en.wikipedia.org/wiki/COVID-19_pandemic_in_France
+Dallas,2020-03-13,2021-06-10,State of Emergency,State-wide state of emergency,1,Texas,https://www.dshs.state.tx.us/coronavirus/execorders.aspx
+Houston,2020-03-13,2021-06-10,State of Emergency,State-wide state of emergency,1,Texas,https://www.dshs.state.tx.us/coronavirus/execorders.aspx
+San Antonio,2020-03-13,2021-06-10,State of Emergency,State-wide state of emergency,1,Texas,https://www.dshs.state.tx.us/coronavirus/execorders.aspx
+Chicago,2020-03-16,2020-03-21,Gathering Restrictions,Prohibit indoor gatherings of over 50 people,1,Illinois,https://en.wikipedia.org/wiki/COVID-19_pandemic_in_Illinois
+San Antonio,2020-03-16,2020-03-19,Gathering Restrictions,Prohibit indoor gatherings of over 50 people,1,San Antonio,https://en.wikipedia.org/wiki/Timeline_of_the_COVID-19_pandemic_in_Texas
+Toronto,2020-03-16,2020-03-25,Gathering Restrictions,Prohibit indoor gatherings of over 50 people,1,Ontario,https://www.ontario.ca/page/framework-reopening-our-province
+Paris,2020-03-16,2020-05-11,Gathering Restrictions,Prohibit all indoor gatherings,3,France,https://en.wikipedia.org/wiki/COVID-19_pandemic_in_France
+San Francisco,2020-03-17,2021-03-02,Gathering Restrictions,Prohibit all indoor gatherings,3,San Francisco,https://en.wikipedia.org/wiki/California_government_response_to_the_COVID-19_pandemic
+Calgary,2020-03-17,2020-06-12,State of Emergency,Province-wide state of emergency,1,Alberta,https://en.wikipedia.org/wiki/COVID-19_pandemic_in_Alberta
+Toronto,2020-03-17,2020-07-24,State of Emergency,Province-wide state of emergency,1,Ontario,https://www.ontario.ca/document/report-ontarios-provincial-emergency-march-17-2020-july-24-2020
+Paris,2020-03-17,2020-07-01,Major Border Closure,Non-EU border closure,1,France,https://www.npr.org/sections/goatsandsoda/2020/03/17/816994811/eu-to-shut-borders-as-france-germany-tighten-restrictions-to-control-coronavirus
+Brisbane,2020-03-18,2020-03-29,Gathering Restrictions,Prohibit indoor gatherings of over 100 people,1,Australia,https://www.bbc.com/news/world-australia-51939211
+Dallas,2020-03-19,2020-03-23,Gathering Restrictions,Prohibit indoor gatherings of over 10 people,2,Texas,https://en.wikipedia.org/wiki/Timeline_of_the_COVID-19_pandemic_in_Texas
+Houston,2020-03-19,2020-03-24,Gathering Restrictions,Prohibit indoor gatherings of over 10 people,2,Texas,https://en.wikipedia.org/wiki/Timeline_of_the_COVID-19_pandemic_in_Texas
+San Antonio,2020-03-19,2020-03-24,Gathering Restrictions,Prohibit indoor gatherings of over 10 people,2,Texas,https://en.wikipedia.org/wiki/Timeline_of_the_COVID-19_pandemic_in_Texas
+San Diego,2020-03-19,2020-05-26,Gathering Restrictions,Prohibit all indoor gatherings,3,California,https://en.wikipedia.org/wiki/California_government_response_to_the_COVID-19_pandemic
+Calgary,2020-03-20,2021-08-09,Major Border Closure,U.S. border closure,1,Canada,https://www.canada.ca/en/border-services-agency/news/2020/04/travel-restrictions-still-in-place-at-international-border-crossings-for-the-upcoming-long-weekend.html
+Montréal,2020-03-20,2020-05-22,Gathering Restrictions,Prohibit all indoor gatherings,3,Québec,https://en.wikipedia.org/wiki/Timeline_of_the_COVID-19_pandemic_in_Quebec
+New York,2020-03-20,2020-05-22,Gathering Restrictions,Prohibit all indoor gatherings,3,New York State,https://en.wikipedia.org/wiki/COVID-19_pandemic_in_New_York_%28state%29
+Chicago,2020-03-20,2021-11-08,Major Border Closure,Ban on non-essential travel,1,United States,https://www.msn.com/en-us/news/other/biden-administration-to-lift-international-travel-ban-in-november/vi-AAPzn2L
+Dallas,2020-03-20,2021-11-08,Major Border Closure,Ban on non-essential travel,1,United States,https://www.msn.com/en-us/news/other/biden-administration-to-lift-international-travel-ban-in-november/vi-AAPzn2L
+Houston,2020-03-20,2021-11-08,Major Border Closure,Ban on non-essential travel,1,United States,https://www.msn.com/en-us/news/other/biden-administration-to-lift-international-travel-ban-in-november/vi-AAPzn2L
+San Antonio,2020-03-20,2021-11-08,Major Border Closure,Ban on non-essential travel,1,United States,https://www.msn.com/en-us/news/other/biden-administration-to-lift-international-travel-ban-in-november/vi-AAPzn2L
+Toronto,2020-03-20,2021-08-09,Major Border Closure,U.S. border closure,1,Canada,https://www.canada.ca/en/border-services-agency/news/2020/04/travel-restrictions-still-in-place-at-international-border-crossings-for-the-upcoming-long-weekend.html
+Montréal,2020-03-20,2021-08-09,Major Border Closure,U.S. border closure,1,Canada,https://www.canada.ca/en/border-services-agency/news/2020/04/travel-restrictions-still-in-place-at-international-border-crossings-for-the-upcoming-long-weekend.html
+New York,2020-03-20,2021-11-08,Major Border Closure,Ban on non-essential travel,1,United States,https://www.msn.com/en-us/news/other/biden-administration-to-lift-international-travel-ban-in-november/vi-AAPzn2L
+Philadelphia,2020-03-20,2021-11-08,Major Border Closure,Ban on non-essential travel,1,United States,https://www.msn.com/en-us/news/other/biden-administration-to-lift-international-travel-ban-in-november/vi-AAPzn2L
+Phoenix,2020-03-20,2021-11-08,Major Border Closure,Ban on non-essential travel,1,United States,https://www.msn.com/en-us/news/other/biden-administration-to-lift-international-travel-ban-in-november/vi-AAPzn2L
+San Diego,2020-03-20,2021-11-08,Major Border Closure,Ban on non-essential travel,1,United States,https://www.msn.com/en-us/news/other/biden-administration-to-lift-international-travel-ban-in-november/vi-AAPzn2L
+San Francisco,2020-03-20,2021-11-08,Major Border Closure,Ban on non-essential travel,1,United States,https://www.msn.com/en-us/news/other/biden-administration-to-lift-international-travel-ban-in-november/vi-AAPzn2L
+Chicago,2020-03-21,2020-06-03,Gathering Restrictions,Prohibit all indoor gatherings,3,Illinois,https://www.chicagotribune.com/coronavirus/ct-coronavirus-illinois-shelter-in-place-lockdown-order-20200320-teedakbfw5gvdgmnaxlel54hau-story.html
+Calgary,2020-03-23,2020-06-01,Park Closures,City playground closures,1,Alberta,https://calgary.ctvnews.ca/calgary-playgrounds-closed-amid-covid-19-pandemic-1.4864412
+Dallas,2020-03-23,2020-05-15,Gathering Restrictions,Prohibit all indoor gatherings,3,Dallas County,https://en.wikipedia.org/wiki/Timeline_of_the_COVID-19_pandemic_in_Texas
+Philadelphia,2020-03-23,2020-06-10,Gathering Restrictions,Prohibit all indoor gatherings,3,Philadelphia,https://en.wikipedia.org/wiki/COVID-19_pandemic_in_Pennsylvania
+San Antonio,2020-03-24,2020-05-01,Gathering Restrictions,Prohibit all indoor gatherings,3,Bexar County,https://en.wikipedia.org/wiki/Timeline_of_the_COVID-19_pandemic_in_Texas
+Houston,2020-03-24,2020-05-01,Gathering Restrictions,Prohibit all indoor gatherings,3,Harris County,https://en.wikipedia.org/wiki/Timeline_of_the_COVID-19_pandemic_in_Texas
+Paris,2020-03-24,2020-07-11,State of Emergency,National state of emergency,1,France,https://www.themayor.eu/en/a/view/having-covid-19-under-control-france-lifts-the-state-of-emergency-on-11-july-5359
+Toronto,2020-03-25,2020-06-24,Gathering Restrictions,Prohibit indoor gatherings of over 5 people,2,Ontario,https://www.ontario.ca/page/framework-reopening-our-province
+London,2020-03-25,2022-03-05,State of Emergency,National state of emergency,1,United Kingdom,https://www.instituteforgovernment.org.uk/sites/default/files/timeline-lockdown-web.pdf
+Toronto,2020-03-25,2020-05-20,Park Closures,City park closures,1,Toronto,https://www.toronto.ca/news/city-of-toronto-reopening-more-than-850-park-amenities-this-week/
+Brisbane,2020-03-26,2021-02-01,Major Border Closure,State border closure,1,Queensland,https://en.wikipedia.org/wiki/COVID-19_pandemic_in_Queensland
+London,2020-03-26,2020-06-01,Gathering Restrictions,Prohibit all indoor gatherings,3,United Kingdom,https://www.instituteforgovernment.org.uk/sites/default/files/timeline-lockdown-web.pdf
+Chicago,2020-03-26,2021-02-23,Park Closures,City park closures,1,Chicago,https://www.chicagotribune.com/coronavirus/ct-coronavirus-chicago-lakefront-parks-closed-20200326-zdqpr2p3vfhqdoucu4hqcrtepa-story.html
+Calgary,2020-03-28,2020-06-12,Gathering Restrictions,Prohibit indoor gatherings of over 15 people,2,Alberta,https://en.wikipedia.org/wiki/COVID-19_pandemic_in_Alberta
+Montréal,2020-03-28,2020-05-22,Park Closures,City garden closures,1,Québec,https://en.wikipedia.org/wiki/Timeline_of_the_COVID-19_pandemic_in_Montreal
+Brisbane,2020-03-29,2020-05-10,Gathering Restrictions,Prohibit indoor gatherings of over 2 people,3,Australia,https://www.abc.net.au/news/2020-03-29/public-gatherings-limited-to-two-people-coronavirus-covid-19/12101162
+Phoenix,2020-03-31,2020-05-15,Gathering Restrictions,Prohibit all indoor gatherings,3,Arizona,https://en.wikipedia.org/wiki/COVID-19_pandemic_in_Arizona
+Phoenix,2020-03-31,2020-10-08,Park Closures,City park closures,1,Phoenix,https://www.phoenix.gov/newsroom/parks-and-recreation/1102
+Houston,2020-04-09,2020-04-13,Park Closures,County park closures,1,Harris County,https://houston.culturemap.com/news/city-life/04-09-20-harris-county-parks-closed-easter-weekend-monday-april-13-reopen/
+San Antonio,2020-04-10,2020-04-13,Park Closures,County park closures,1,Bexar County,https://news4sanantonio.com/news/local/san-antonio-area-parks-to-be-closed-for-easter-weekend
+Houston,2020-05-01,2020-07-03,Gathering Restrictions,Return to partial capacity limits,1,Texas,https://www.wfaa.com/article/news/health/coronavirus/heres-whats-reopening-texas-phase-1-begins-restaurants-bars-church-nail-salon/287-4367ea93-e363-4178-99f3-6bd1a177ca9b
+San Antonio,2020-05-01,2021-03-10,Gathering Restrictions,Return to partial capacity limits,1,Texas,https://www.wfaa.com/article/news/health/coronavirus/heres-whats-reopening-texas-phase-1-begins-restaurants-bars-church-nail-salon/287-4367ea93-e363-4178-99f3-6bd1a177ca9b
+Brisbane,2020-05-10,2020-06-01,Gathering Restrictions,Prohibit indoor gatherings of over 10 people,2,Queensland,https://www.bodyandsoul.com.au/health/health-news/a-statebystate-guide-to-what-you-can-and-cant-do-with-the-easing-coronavirus-restrictions/news-story/ad80231cc907934495fd9c9adf1fd295
+Paris,2020-05-11,2020-06-15,Gathering Restrictions,Prohibit indoor gatherings of over 10 people,2,France,https://en.wikipedia.org/wiki/COVID-19_pandemic_in_France
+Paris,2020-05-12,2020-05-12,Park Closures,City park closures,1,France,https://en.wikipedia.org/wiki/COVID-19_pandemic_in_France
+Dallas,2020-05-15,2021-03-02,Gathering Restrictions,Return to partial capacity limits,1,Texas,https://www.wfaa.com/article/news/health/coronavirus/heres-whats-reopening-texas-phase-1-begins-restaurants-bars-church-nail-salon/287-4367ea93-e363-4178-99f3-6bd1a177ca9b
+Phoenix,2020-05-15,2021-03-25,Gathering Restrictions,Prohibit indoor gatherings of over 10 people,2,Phoenix,https://en.wikipedia.org/wiki/COVID-19_pandemic_in_Arizona
+Montréal,2020-05-22,2020-10-01,Gathering Restrictions,Prohibit indoor gatherings of over 10 people,2,Québec,https://ici.radio-canada.ca/nouvelle/1705446/rassemblement-quebec-menages-regle-distanciation
+New York,2020-05-22,2020-07-06,Gathering Restrictions,Prohibit indoor gatherings of over 10 people,2,New York State,https://en.wikipedia.org/wiki/COVID-19_pandemic_in_New_York_%28state%29
+San Diego,2020-05-26,2021-06-09,Gathering Restrictions,Prohibit indoor gatherings of over 10 people,2,California,https://www.sandiegoville.com/2020/05/california-governor-allows-san-diego-to-move-into-state-3-reopening.html
+Brisbane,2020-06-01,2020-08-22,Gathering Restrictions,Prohibit indoor gatherings of over 30 people,1,Queensland,https://qldultimate.com.au/p/qld-roadmap-to-easing-restrictions-stage-2
+London,2020-06-01,2020-06-23,Gathering Restrictions,Prohibit indoor gatherings of over 6 people,2,United Kingdom,https://en.wikipedia.org/wiki/Timeline_of_the_COVID-19_pandemic_in_England_(January%E2%80%93June_2020)
+Chicago,2020-06-03,2021-01-31,Gathering Restrictions,Prohibit indoor gatherings of over 10 people,2,Illinois,https://www.timeout.com/chicago/news/everything-you-need-to-know-about-phase-3-of-chicagos-reopening-plan-060320
+Philadelphia,2020-06-10,2020-06-26,Gathering Restrictions,Prohibit indoor gatherings of over 10 people,2,Pennsylvania,https://www.natlawreview.com/article/philadelphia-area-transitions-red-phase-to-yellow-allowing-more-business-activity
+Calgary,2020-06-12,2020-11-24,Gathering Restrictions,Prohibit indoor gatherings of over 50 people,1,Alberta,https://en.wikipedia.org/wiki/COVID-19_pandemic_in_Alberta
+Paris,2020-06-15,2020-10-30,Gathering Restrictions,Return to partial capacity limits,1,France,https://en.wikipedia.org/wiki/COVID-19_pandemic_in_France
+London,2020-06-23,2020-07-17,Gathering Restrictions,Prohibit indoor gatherings of over 10 people,2,United Kingdom,https://en.wikipedia.org/wiki/Timeline_of_the_COVID-19_pandemic_in_England_(January%E2%80%93June_2020)
+Toronto,2020-06-24,2020-07-31,Gathering Restrictions,Prohibit indoor gatherings of over 10 people,2,Ontario,https://www.ontario.ca/page/reopening-ontario-stages?_ga=2.90980435.832529307.1584736554-239109524.1558460577
+Philadelphia,2020-06-26,2020-11-16,Gathering Restrictions,Prohibit indoor gatherings of over 25 people,2,Philadelphia,https://en.wikipedia.org/wiki/COVID-19_pandemic_in_Philadelphia
+Houston,2020-07-03,2022-03-10,Gathering Restrictions,Prohibit indoor gatherings of over 10 people,2,Harris County,https://abc13.com/stay-home-work-safe-order-lina-hidalgo-coronavirus-texas-reopen/6297783/
+New York,2020-07-06,2020-07-20,Gathering Restrictions,Prohibit indoor gatherings of over 25 people,1,New York State,https://www.governor.ny.gov/news/governor-cuomo-announces-new-york-city-enters-phase-iii-reopening-without-indoor-dining-and
+London,2020-07-17,2020-09-14,Gathering Restrictions,Return to normal capacity limits,0,United Kingdom,https://www.standard.co.uk/news/uk/boris-johnson-announcement-july-19-freedom-day-covid-lockdown-b940739.html
+New York,2020-07-20,2020-10-06,Gathering Restrictions,Prohibit indoor gatherings of over 50 people,1,New York State,https://en.wikipedia.org/wiki/COVID-19_pandemic_in_New_York_City
+Toronto,2020-07-31,2020-09-19,Gathering Restrictions,Prohibit indoor gatherings of over 50 people,1,Ontario,https://www.ontario.ca/page/framework-reopening-our-province
+Brisbane,2020-08-22,2020-09-24,Gathering Restrictions,Prohibit indoor gatherings of over 10 people,2,Queensland,https://www.abc.net.au/news/2020-08-22/queensland-covid-19-restrictions-update-house-gathering-visitors/12585596
+San Antonio,2020-07-16,2020-08-13,Gathering Restrictions,Prohibit indoor gatherings of over 10 people,2,Bexar County,https://www.bexar.org/DocumentCenter/View/27426/Bexar-County-Executive-Order-NW-13-7-15-2020?bidId=
+San Antonio,2020-08-13,2021-03-02,Gathering Restrictions,Prohibit indoor gatherings of over 10 people,2,Bexar County,https://www.bexar.org/DocumentCenter/View/27815/Executive-Order-NW-14-issued-by-Bexar-County-Judge-Nelson-Wolff
+London,2020-09-14,2020-09-24,Gathering Restrictions,Prohibit indoor gatherings of over 6 people,2,United Kingdom,https://www.expressandstar.com/news/uk-news/2021/01/04/a-timeline-of-uk-lockdown-measures-since-the-pandemic-began/
+Toronto,2020-09-19,2020-11-14,Gathering Restrictions,Prohibit indoor gatherings of over 10 people,2,Ontario,https://www.ontario.ca/page/reopening-ontario-stages?_ga=2.90980435.832529307.1584736554-239109524.1558460577
+Brisbane,2020-09-24,2020-11-17,Gathering Restrictions,Return to normal capacity limits,0,Queensland,https://www.reiq.com/articles/new-restrictions/
+London,2020-09-24,2020-11-05,Gathering Restrictions,Return to partial capacity limits,1,United Kingdom,https://www.instituteforgovernment.org.uk/sites/default/files/timeline-lockdown-web.pdf
+Montréal,2020-10-01,2021-06-07,Gathering Restrictions,Prohibit all indoor gatherings,3,Québec,https://montreal.ctvnews.ca/red-alert-private-gatherings-banned-as-bars-eat-in-dining-close-in-three-quebec-regions-1.5122144
+New York,2020-10-06,2020-11-26,Gathering Restrictions,Prohibit indoor gatherings of over 10 people,2,New York State,https://en.wikipedia.org/wiki/COVID-19_pandemic_in_New_York_City
+Paris,2020-10-14,NA,State of Emergency,National state of emergency,1,France,https://www.reuters.com/article/us-health-coronavirus-france-emergency-idUSKBN26Z2PQ
+Paris,2020-10-30,2020-12-15,Gathering Restrictions,Prohibit all indoor gatherings,3,France,https://en.wikipedia.org/wiki/COVID-19_pandemic_in_France
+London,2020-11-05,2021-07-10,Major Border Closure,Ban on non-essential travel,1,United Kingdom,https://news.gtp.gr/2020/11/03/uk-covid-19-lockdown-bans-all-non-essential-travel/
+London,2020-11-05,2020-12-02,Gathering Restrictions,Prohibit all indoor gatherings,3,United Kingdom,https://www.instituteforgovernment.org.uk/sites/default/files/timeline-lockdown-web.pdf
+Toronto,2020-11-14,2021-01-14,Gathering Restrictions,Prohibit indoor gatherings of over 5 people,2,Ontario,https://www.ontario.ca/page/covid-19-response-framework-keeping-ontario-safe-and-open?fbclid=IwAR34f9Gs0xePrsusLmsbKsx6HWwJJrrGmaOsk_m1Lph3NRT6G_n82ZvQDvI#red
+Philadelphia,2020-11-16,2021-01-04,Gathering Restrictions,Prohibit all indoor gatherings,3,Philadelphia,https://en.wikipedia.org/wiki/COVID-19_pandemic_in_Philadelphia
+Brisbane,2020-11-17,2021-01-08,Gathering Restrictions,Prohibit indoor gatherings of over 50 people,1,Queensland,https://www.abc.net.au/news/2020-11-13/queensland-coronavirus-palaszczuk-easing-covid19-restrictions/12857922
+Calgary,2020-11-24,2020-12-22,Gathering Restrictions,Prohibit all indoor gatherings,3,Alberta,https://en.wikipedia.org/wiki/COVID-19_pandemic_in_Alberta
+New York,2020-11-26,2021-05-19,Gathering Restrictions,Prohibit indoor gatherings of over 50 people,1,New York State,https://en.wikipedia.org/wiki/COVID-19_pandemic_in_New_York_City
+Paris,2020-12-15,2021-04-03,Gathering Restrictions,Prohibit indoor gatherings of over 10 people,2,France,https://en.wikipedia.org/wiki/COVID-19_pandemic_in_France
+London,2020-12-21,2021-07-19,Gathering Restrictions,Prohibit all indoor gatherings,3,United Kingdom,https://www.instituteforgovernment.org.uk/sites/default/files/timeline-lockdown-web.pdf
+Calgary,2020-12-22,2021-03-08,Gathering Restrictions,Prohibit indoor gatherings of over 10 people,2,Alberta,https://en.wikipedia.org/wiki/COVID-19_pandemic_in_Alberta
+Philadelphia,2021-01-04,2021-05-07,Gathering Restrictions,Prohibit indoor gatherings of over 25 people,2,Philadelphia,https://en.wikipedia.org/wiki/COVID-19_pandemic_in_Philadelphia
+Brisbane,2021-01-08,2021-01-11,Gathering Restrictions,Prohibit all indoor gatherings,3,Queensland,https://en.wikipedia.org/wiki/COVID-19_pandemic_in_Queensland
+Toronto,2021-01-12,2021-02-09,State of Emergency,Province-wide state of emergency,1,Ontario,https://ca.news.yahoo.com/ontario-declares-state-emergency-issues-192544357.html
+Toronto,2021-01-14,2021-02-22,Gathering Restrictions,Prohibit all indoor gatherings,3,Ontario,https://news.ontario.ca/en/release/59922/ontario-declares-second-provincial-emergency-to-address-covid-19-crisis-and-save-lives
+Brisbane,2021-01-22,2021-03-29,Gathering Restrictions,Prohibit indoor gatherings of over 50 people,1,Queensland,https://www.abc.net.au/news/2021-01-21/coronavirus-restrictions-ease-greater-brisbane-masks/13069830
+Chicago,2021-01-31,2021-06-11,Gathering Restrictions,Prohibit indoor gatherings of over 50 people,1,Illinois,https://www.chicagotribune.com/news/breaking/ct-chicago-phase-four-indoor-dining-remains-20210131-f4zc5zytwzh4hhszp3y5nv3evy-story.html
+Paris,2021-01-31,2021-03-11,Major Border Closure,Non-EU border closure,1,France,https://newseu.cgtn.com/news/2021-01-31/France-rules-out-new-lockdown-but-closes-borders-to-most-non-EU-travel-XtRkvIwef6/index.html
+Toronto,2021-02-22,2021-03-08,Gathering Restrictions,Prohibit all indoor gatherings,3,Ontario,https://toronto.ctvnews.ca/stay-at-home-order-lifts-today-in-toronto-and-peel-region-1.5337873
+San Francisco,2021-03-02,2021-05-04,Gathering Restrictions,Prohibit indoor gatherings of over 10 people,2,California,https://sanfrancisco.cbslocal.com/2021/03/02/covid-19-san-francisco-red-tier-reopening-restaurants/
+Calgary,2021-03-08,2021-04-07,Gathering Restrictions,Return to partial capacity limits,1,Alberta,https://en.wikipedia.org/wiki/COVID-19_pandemic_in_Alberta
+Toronto,2021-03-08,2021-06-11,Gathering Restrictions,Prohibit all indoor gatherings,3,Ontario,https://www.ontario.ca/page/covid-19-response-framework-keeping-ontario-safe-and-open?fbclid=IwAR34f9Gs0xePrsusLmsbKsx6HWwJJrrGmaOsk_m1Lph3NRT6G_n82ZvQDvI#grey
+Dallas,2021-03-02,NA,Gathering Restrictions,Return to normal capacity limits,0,Texas,https://www.kut.org/business/2021-03-02/watch-live-gov-greg-abbott-to-make-statewide-announcement-in-lubbock
+San Antonio,2020-09-04,2020-09-07,Park Closures,County park closures,1,Bexar County,https://www.sacurrent.com/sanantonio/bexar-county-parks-will-close-over-the-labor-day-weekend-to-curb-covid-19-spread/Content?oid=24248168
+Phoenix,2021-03-25,NA,Gathering Restrictions,Return to normal capacity limits,0,Arizona,https://www.abc15.com/entertainment/events/arizona-gov-doug-ducey-lifts-restrictions-on-large-events-in-arizona
+Brisbane,2021-03-29,2021-04-01,Gathering Restrictions,Prohibit all indoor gatherings,3,Queensland,https://en.wikipedia.org/wiki/COVID-19_pandemic_in_Queensland
+Paris,2021-04-03,2021-05-03,Gathering Restrictions,Prohibit all indoor gatherings,3,France,https://en.wikipedia.org/wiki/COVID-19_pandemic_in_France
+Calgary,2021-04-07,2021-06-10,Gathering Restrictions,Prohibit all indoor gatherings,3,Alberta,https://edmonton.ctvnews.ca/alberta-returns-to-step-1-of-restrictions-as-covid-19-variant-cases-rise-1.5376344
+Toronto,2021-04-08,2021-07-22,State of Emergency,Province-wide state of emergency,1,Ontario,https://globalnews.ca/news/8046993/ottawa-covid-state-of-emergency-ending/
+Paris,2021-05-03,2021-06-20,Gathering Restrictions,Prohibit indoor gatherings of over 10 people,2,France,https://en.wikipedia.org/wiki/COVID-19_pandemic_in_France
+San Francisco,2021-05-04,2022-04-01,Gathering Restrictions,Prohibit indoor gatherings of over 50 people,1,California,https://www.msn.com/en-us/news/us/san-francisco-is-moving-to-the-yellow-tier-here-e2-80-99s-what-will-change/ar-BB1gm99d
+Philadelphia,2021-05-07,2021-06-12,Gathering Restrictions,Return to partial capacity limits,1,Philadelphia,https://en.wikipedia.org/wiki/COVID-19_pandemic_in_Philadelphia
+Brisbane,2021-06-01,2021-06-29,Gathering Restrictions,Prohibit indoor gatherings of over 20 people,2,Queensland,https://statements.qld.gov.au/statements/89931
+Montréal,2021-06-07,2021-12-26,Gathering Restrictions,Prohibit indoor gatherings of over 10 people,2,Québec,https://www.msn.com/en-ca/news/canada/what-changes-now-that-montreal-is-an-orange-zone/ar-AAKMCe1
+San Diego,2021-06-09,2022-04-01,Gathering Restrictions,Prohibit indoor gatherings of over 50 people,1,California,https://www.msn.com/en-us/travel/news/san-diego-county-eligible-to-move-into-yellow-tier-starting-wednesday/ar-AAKPCfg
+Calgary,2021-06-10,2021-07-01,Gathering Restrictions,Prohibit indoor gatherings of over 15 people,2,Alberta,https://en.wikipedia.org/wiki/COVID-19_pandemic_in_Alberta
+Chicago,2021-06-11,NA,Gathering Restrictions,Return to normal capacity limits,0,Illinois,https://www.workforcebulletin.com/2021/06/16/covid-re-opening-phase-5-what-now-for-illinois-and-chicago-businesses/
+Toronto,2021-06-11,2021-06-30,Gathering Restrictions,Prohibit all indoor gatherings,3,Ontario,https://en.wikipedia.org/wiki/Timeline_of_the_COVID-19_pandemic_in_Ontario
+Paris,2021-06-20,NA,Gathering Restrictions,Return to normal capacity limits,0,France,https://en.wikipedia.org/wiki/COVID-19_pandemic_in_France
+Brisbane,2021-06-29,2021-07-02,Gathering Restrictions,Prohibit all indoor gatherings,3,Queensland,https://www.broadsheet.com.au/brisbane/city-file/article/queenslanders-will-go-three-day-lockdown-6pm-tonight
+Toronto,2021-06-30,2021-07-16,Gathering Restrictions,Prohibit indoor gatherings of over 5 people,2,Ontario,https://en.wikipedia.org/wiki/Timeline_of_the_COVID-19_pandemic_in_Ontario
+Calgary,2021-07-01,2021-09-16,Gathering Restrictions,Return to normal capacity limits,0,Alberta,https://en.wikipedia.org/wiki/COVID-19_pandemic_in_Alberta
+Toronto,2021-07-16,2022-01-05,Gathering Restrictions,Prohibit indoor gatherings of over 25 people,1,Ontario,https://www.toronto.ca/home/covid-19/covid-19-reopening-recovery-rebuild/covid-19-guide-for-toronto-residents/
+London,2021-07-19,NA,Gathering Restrictions,Return to normal capacity limits,0,United Kingdom,https://www.bbc.com/news/uk-57882029
+Brisbane,2021-07-31,2021-08-08,Gathering Restrictions,Prohibit all indoor gatherings,3,Queensland,https://en.wikipedia.org/wiki/COVID-19_pandemic_in_Queensland
+Calgary,2021-09-15,NA,State of Emergency,Province-wide state of emergency,1,Alberta,https://en.wikipedia.org/wiki/COVID-19_pandemic_in_Alberta
+Calgary,2021-09-16,2022-02-09,Gathering Restrictions,Prohibit indoor gatherings of over 10 people,2,Alberta,https://en.wikipedia.org/wiki/COVID-19_pandemic_in_Alberta
+Brisbane,2021-09-28,2021-09-30,Gathering Restrictions,Prohibit indoor gatherings of over 100 people,1,Queensland,https://www.theguardian.com/australia-news/2021/oct/04/qld-covid-19-brisbane-lockdown-restrictions-queensland-coronavirus-new-rules-update-mask-wear-face-masks-explained-greater-bne-sunshine-gold-coast-townsville-moreton-bay-logan-south-east-seq
+Brisbane,2021-09-30,2021-10-08,Gathering Restrictions,Prohibit indoor gatherings of over 30 people,1,Queensland,https://www.skynews.com.au/australia-news/coronavirus/six-queensland-areas-to-enter-stage-two-restrictions/video/2480c6d6fa4142de4f3f7daf599a058d
+Brisbane,2021-10-08,2022-03-04,Gathering Restrictions,Prohibit indoor gatherings of over 100 people,1,Queensland,https://www.healthdirect.gov.au/covid19-restriction-checker/gatherings-and-work/qld
+San Antonio,2021-03-02,NA,Gathering Restrictions,Return to normal capacity limits,0,Texas,https://www.kut.org/business/2021-03-02/watch-live-gov-greg-abbott-to-make-statewide-announcement-in-lubbock
+Montréal,2021-12-26,2022-02-12,Gathering Restrictions,Prohibit indoor gatherings of over 6 people,2,Québec,https://montreal.ctvnews.ca/quebec-gathering-caps-reduced-hospitals-shut-to-visitors-as-province-battles-with-explosive-omicron-wave-1.5719937
+New York,2021-05-19,NA,Gathering Restrictions,Prohibit indoor gatherings of over 250 people,1,New York State,https://www.governor.ny.gov/news/governor-cuomo-governor-murphy-and-governor-lamont-announce-significant-easing-covid-19
+Calgary,2022-02-09,2022-03-01,Gathering Restrictions,Prohibit indoor gatherings of over 50 people,1,Alberta,https://www.alberta.ca/covid-19-public-health-actions.aspx
+Calgary,2022-03-01,NA,Gathering Restrictions,Return to normal capacity limits,0,Alberta,https://www.alberta.ca/covid-19-public-health-actions.aspx
+Houston,2022-03-10,NA,Gathering Restrictions,Prohibit indoor gatherings of over 25 people,2,Harris County,https://www.click2houston.com/news/local/2022/03/10/harris-county-judge-lina-hidalgo-lowers-threat-level-from-orange-to-yellow/
+Montréal,2022-02-12,NA,Gathering Restrictions,Return to normal capacity limits,0,Québec,https://montreal.ctvnews.ca/this-is-a-big-change-quebec-to-lift-covid-19-restrictions-for-restaurants-home-gatherings-bars-1.5772435
+Philadelphia,2021-06-12,NA,Gathering Restrictions,Return to normal capacity limits,0,Philadelphia,https://www.nbcphiladelphia.com/news/coronavirus/philadelphia-covid-reopening-business/2809967/
+San Diego,2022-04-01,NA,Gathering Restrictions,Return to normal capacity limits,0,California,https://www.northstarmeetingsgroup.com/News/Industry/Coronavirus-states-cities-reopening-COVID-19-new-cases
+San Francisco,2022-04-01,NA,Gathering Restrictions,Return to normal capacity limits,0,California,https://www.northstarmeetingsgroup.com/News/Industry/Coronavirus-states-cities-reopening-COVID-19-new-cases
+Toronto,2022-01-05,2022-01-31,Gathering Restrictions,Prohibit indoor gatherings of over 5 people,2,Ontario,https://news.ontario.ca/en/release/1001394/ontario-temporarily-moving-to-modified-step-two-of-the-roadmap-to-reopen
+Toronto,2022-01-31,2022-02-17,Gathering Restrictions,Prohibit indoor gatherings of over 10 people,2,Ontario,https://www.blogto.com/city/2022/01/latest-changes-social-gathering-limits-ontario-new-reopening-plan/
+Toronto,2022-02-17,2022-03-01,Gathering Restrictions,Prohibit indoor gatherings of over 50 people,1,Ontario,https://www.blogto.com/city/2022/02/gathering-limits-ontario-new-doug-ford-reopening/
+Toronto,2022-03-01,NA,Gathering Restrictions,Return to normal capacity limits,0,Ontario,https://www.kenoraonline.com/articles/ontario-lifts-additional-restrictions-capacity-limits-vaccine-passports-removed
